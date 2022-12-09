@@ -22,6 +22,6 @@ int main(void)
 		putchar(letter);
 		letter++;
 	}
-	puthcar('\n');
+	putchar('\n');
 	return (0);
 }
