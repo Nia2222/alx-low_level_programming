@@ -23,12 +23,12 @@ int main(void)
 				putchar(ones);
 				if (!(ones == '9' && tens == '8'))
 				{
-					puthcar(',');
+					putchar(',');
 					putchar(' ');
 				}
 			}
 		}
 	}
-	putchar('\n')
+	putchar('\n');
 	return (0);
 }
