@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print alphapet - entry point
+ * print_alphapet - entry point
  *
  * Return: Always 0 (Success)
  */
