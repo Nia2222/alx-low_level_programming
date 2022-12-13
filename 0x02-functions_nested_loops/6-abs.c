@@ -3,6 +3,7 @@
 /**
  * _abs - computes the absolute value of an integer
  * @n: The integer to be operated upon
+ *
  * Return: returns an unsigned int value to calling function
  */
 
@@ -12,9 +13,10 @@ int _abs(int n)
 	{
 		return (n);
 	}
+
 	else
 	{
-		n*= -1;
+		n *= -1;
 		return (n)
 	}
 }
