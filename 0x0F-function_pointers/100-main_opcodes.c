@@ -21,7 +21,7 @@ int main(int argc, char *argv[])
 	if (bytes < 0)
 	{
 		printf("Error\n");
-		exit(2);	
+		exit(2);
 	}
 
 	arr = (char *)main;
