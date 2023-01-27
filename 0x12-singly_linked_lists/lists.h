@@ -9,7 +9,7 @@
  * Description: singly linked list node structure
  */
 
-ypedef struct list_s
+typedef struct list_s
 {
 	char *str;
 
